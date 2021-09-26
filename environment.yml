@@ -8,3 +8,4 @@ dependencies:
   - IPython
   - ipywidgets
   - appmode
+  - ipympl
