@@ -9,3 +9,4 @@ dependencies:
   - ipywidgets
   - appmode
   - ipympl
+  - IPython.display
